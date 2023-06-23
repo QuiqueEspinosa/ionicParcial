@@ -1,2 +1,2 @@
-# ionicParcial
-parcial de api Rick and Morty
+# IonicParcial
+Parcial 2 Ionic Desarrollo aplicativo
